@@ -1,4 +1,4 @@
-# Sistem Manajemen Kafe KohiSop
+# Kafe KohiSop
 
 Sistem Point of Sale (POS) berbasis Java yang komprehensif untuk manajemen kafe dengan sistem member reward, dukungan multi mata uang, dan pemrosesan pesanan dapur.
 
